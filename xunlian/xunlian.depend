@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1719063133 source:d:\code\c\xunlian\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1717492487 source:d:\code\c\xunlian\lianzhan.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

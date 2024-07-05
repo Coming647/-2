@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1717514443 source:d:\code\c\dui lie2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
